@@ -2,4 +2,4 @@ name: 'Go Benchmark Tracker'
 description: 'Collect and track go benchmark stats'
 runs:
   using: 'node16'
-  main: 'dist/action.js'
+  main: 'dist/index.js'
